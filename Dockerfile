@@ -1,7 +1,6 @@
-
 FROM php:7.2.9-fpm
 
-LABEL maintainer = "dave and eric awesome contaienr great job! <ekeyte@rategenius.com>"
+LABEL maintainer = "Eric Keyte <ekeyte@gmail.com>"
 
 RUN pecl install xdebug
     
