@@ -1,6 +1,6 @@
 # PhpUnit for Docker
 
-Github Repository: (https://github.com/ekeyte/phpunit-docker)[https://github.com/ekeyte/phpunit-docker]
+Github Repository: (https://github.com/ekeyte/phpunit-docker)
 
 ## Prerequisites
 
